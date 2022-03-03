@@ -1,1 +1,1 @@
-# -carbon-tutorial-angular
+# carbon-tutorial-angular
